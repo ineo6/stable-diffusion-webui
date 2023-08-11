@@ -48,12 +48,12 @@
 ###########################################
 
 export TORCH_INDEX_URL="https://download.pytorch.org/whl/cu118"
-export WEBUI_EXTENSIONS_INDEX="https://raw.githubusercontent.com/AUTOMATIC1111/stable-diffusion-webui-extensions/master/index.json"
 
 # for intel
 # export COMMANDLINE_ARGS="--skip-torch-cuda-test --upcast-sampling --no-half-vae  --use-cpu interrogate --precision full --no-half"
 
 # env start
+export WEBUI_EXTENSIONS_INDEX="https://ghproxy.com/https://raw.githubusercontent.com/AUTOMATIC1111/stable-diffusion-webui-extensions/master/index.json"
 export GFPGAN_PACKAGE=https://ghproxy.com/https://github.com/TencentARC/GFPGAN/archive/8d2447a2d918f8eba5a4a01463fd48e45126a379.zip
 export CLIP_PACKAGE=https://ghproxy.com/https://github.com/openai/CLIP/archive/d50d76daa670286dd6cacf3bcd80b5e4823fc8e1.zip
 export OPENCLIP_PACKAGE=https://ghproxy.com/https://github.com/mlfoundations/open_clip/archive/bb6e834e9c70d9c27d0dc3ecedeebeaeb1ffad6b.zip
