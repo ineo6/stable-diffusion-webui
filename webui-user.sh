@@ -59,8 +59,6 @@ export CLIP_PACKAGE=https://ghproxy.com/https://github.com/openai/CLIP/archive/d
 export OPENCLIP_PACKAGE=https://ghproxy.com/https://github.com/mlfoundations/open_clip/archive/bb6e834e9c70d9c27d0dc3ecedeebeaeb1ffad6b.zip
 export STABLE_DIFFUSION_REPO=https://ghproxy.com/https://github.com/Stability-AI/stablediffusion.git
 export STABLE_DIFFUSION_XL_REPO=https://ghproxy.com/https://github.com/Stability-AI/generative-models.git
-export K_DIFFUSION_REPO=https://ghproxy.com/https://github.com/brkirch/k-diffusion.git
-export K_DIFFUSION_COMMIT_HASH=51c9778f269cedb55a4d88c79c0246d35bdadb71
 export CODEFORMER_REPO=https://ghproxy.com/https://github.com/sczhou/CodeFormer.git
 export BLIP_REPO=https://ghproxy.com/https://github.com/salesforce/BLIP.git
 # env end
