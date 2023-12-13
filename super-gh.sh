@@ -13,7 +13,7 @@ do
         break
         ;;
         "ghproxy.com")
-            prefixUrl='https://ghproxy.com/'
+            prefixUrl='https://mirror.ghproxy.com/'
             break
             ;;
         "ghps.cc")
