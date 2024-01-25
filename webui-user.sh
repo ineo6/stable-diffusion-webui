@@ -61,4 +61,6 @@ export STABLE_DIFFUSION_REPO=https://mirror.ghproxy.com/https://github.com/Stabi
 export STABLE_DIFFUSION_XL_REPO=https://mirror.ghproxy.com/https://github.com/Stability-AI/generative-models.git
 export CODEFORMER_REPO=https://mirror.ghproxy.com/https://github.com/sczhou/CodeFormer.git
 export BLIP_REPO=https://mirror.ghproxy.com/https://github.com/salesforce/BLIP.git
+export K_DIFFUSION_REPO=https://mirror.ghproxy.com/https://github.com/brkirch/k-diffusion.git
+export K_DIFFUSION_COMMIT_HASH=51c9778f269cedb55a4d88c79c0246d35bdadb71
 # env end
